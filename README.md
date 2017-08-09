@@ -14,5 +14,6 @@ DESCRIPTION---
           --Fixed Background with parallex scrolling |
           --Modal  
 
-THESE ARE THE SCREENSHOTS OF THE PROJECT
+*******THESE ARE THE SCREENSHOTS OF THE PROJECT*******
+    
     https://drive.google.com/open?id=0B-27ArYqAa4gXzhhaHAxeVItaFU
